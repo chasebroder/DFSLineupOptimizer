@@ -13,3 +13,4 @@ changes as necessary, such as website and slate.
 * Set up a command-line run configuration to set customizable options (ex. player salary file, site, etc.)
 * Figure out how to filter out injured players (player.is_injured doesn't seem to supply valid data)
 * Make custom Fantasy Points Strategy (some way to factor in matchup, projected points, and other factors that current implementations do not)
+* Implement supervised learning algorithm to compare projected lineups against actual top-scoring lineups and adjust as necessary
