@@ -1,7 +1,7 @@
-from pydfs_lineup_optimizer import get_optimizer, Site, Sport, RandomFantasyPointsStrategy
-from scrapers.numberfirescraper import get_projections
+from pydfs_lineup_optimizer import get_optimizer, Site, Sport
 
 from strategies.ScrapedProjectedPointsStrategy import ScrapedProjectedPointsStrategy
+from strategies.VegasStrategy import VegasStrategy
 
 # TODO make site and sport configurable via command line arguments
 optimizer = get_optimizer(Site.DRAFTKINGS, Sport.BASKETBALL)
@@ -12,8 +12,7 @@ optimizer.load_players_from_csv("dk_salaries.csv")
 # add randomness
 # optimizer.set_fantasy_points_strategy(RandomFantasyPointsStrategy(max_deviation=0.2))  # set random strategy with custom max_deviation
 
-dict = get_projections()
-optimizer.set_fantasy_points_strategy(ScrapedProjectedPointsStrategy(dict))  # set scraped projections
+optimizer.set_fantasy_points_strategy(VegasStrategy())  # set scraped projections
 
 
 # optimize lineups and print results

@@ -1,0 +1,2355 @@
+{
+    "eventGroup": {
+        "eventGroupId": 88670846,
+        "providerEventGroupId": "42648",
+        "providerId": 2,
+        "displayGroupId": 5319,
+        "name": "NBA",
+        "offerCategories": [
+            {
+                "offerCategoryId": 487,
+                "name": "Game Lines"
+            },
+            {
+                "offerCategoryId": 583,
+                "name": "Player Props",
+                "offerSubcategoryDescriptors": [
+                    {
+                        "subcategoryId": 5714,
+                        "name": "Player Specials"
+                    },
+                    {
+                        "subcategoryId": 4991,
+                        "name": "Points"
+                    },
+                    {
+                        "subcategoryId": 4992,
+                        "name": "Rebounds"
+                    },
+                    {
+                        "subcategoryId": 5000,
+                        "name": "Assists"
+                    },
+                    {
+                        "subcategoryId": 6209,
+                        "name": "Threes"
+                    },
+                    {
+                        "subcategoryId": 7136,
+                        "name": "Double-Double",
+                        "offerSubcategory": {
+                            "name": "Double-Double",
+                            "subcategoryId": 7136,
+                            "componentId": 8,
+                            "offers": [
+                                [
+                                    {
+                                        "providerOfferId": "107968114",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Andre Drummond Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968114#1226622888_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968114",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+160",
+                                                "oddsDecimal": 2.60000000,
+                                                "oddsDecimalDisplay": "2.60",
+                                                "oddsFractional": "8/5",
+                                                "participant": "Andre Drummond"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968114#1226622886_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968114",
+                                                "label": "No",
+                                                "oddsAmerican": "-225",
+                                                "oddsDecimal": 1.44444445,
+                                                "oddsDecimalDisplay": "1.44",
+                                                "oddsFractional": "4/9",
+                                                "participant": "Andre Drummond"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968145",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Bruce Brown Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968145#1226622906_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968145",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1200",
+                                                "oddsDecimal": 13.00000000,
+                                                "oddsDecimalDisplay": "13.00",
+                                                "oddsFractional": "12/1",
+                                                "participant": "Bruce Brown"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968153",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Kevin Durant Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968153#1226622928_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968153",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+160",
+                                                "oddsDecimal": 2.60000000,
+                                                "oddsDecimalDisplay": "2.60",
+                                                "oddsFractional": "8/5",
+                                                "participant": "Kevin Durant"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968153#1226622927_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968153",
+                                                "label": "No",
+                                                "oddsAmerican": "-225",
+                                                "oddsDecimal": 1.44444445,
+                                                "oddsDecimalDisplay": "1.44",
+                                                "oddsFractional": "4/9",
+                                                "participant": "Kevin Durant"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968125",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Kyrie Irving Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968125#1226622940_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968125",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+500",
+                                                "oddsDecimal": 6.00000000,
+                                                "oddsDecimalDisplay": "6.00",
+                                                "oddsFractional": "5/1",
+                                                "participant": "Kyrie Irving"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968125#1226622939_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968125",
+                                                "label": "No",
+                                                "oddsAmerican": "-1000",
+                                                "oddsDecimal": 1.10000000,
+                                                "oddsDecimalDisplay": "1.10",
+                                                "oddsFractional": "1/10",
+                                                "participant": "Kyrie Irving"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968209",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "LaMelo Ball Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968209#1226623084_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968209",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+225",
+                                                "oddsDecimal": 3.25000000,
+                                                "oddsDecimalDisplay": "3.25",
+                                                "oddsFractional": "9/4",
+                                                "participant": "LaMelo Ball"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968209#1226623083_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968209",
+                                                "label": "No",
+                                                "oddsAmerican": "-330",
+                                                "oddsDecimal": 1.30303031,
+                                                "oddsDecimalDisplay": "1.30",
+                                                "oddsFractional": "10/33",
+                                                "participant": "LaMelo Ball"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968195",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Mason Plumlee Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968195#1226623042_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968195",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+650",
+                                                "oddsDecimal": 7.50000000,
+                                                "oddsDecimalDisplay": "7.50",
+                                                "oddsFractional": "13/2",
+                                                "participant": "Mason Plumlee"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968195#1226623041_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968195",
+                                                "label": "No",
+                                                "oddsAmerican": "-1600",
+                                                "oddsDecimal": 1.06250000,
+                                                "oddsDecimalDisplay": "1.06",
+                                                "oddsFractional": "1/16",
+                                                "participant": "Mason Plumlee"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968183",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Miles Bridges Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968183#1226623003_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968183",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+400",
+                                                "oddsDecimal": 5.00000000,
+                                                "oddsDecimalDisplay": "5.00",
+                                                "oddsFractional": "4/1",
+                                                "participant": "Miles Bridges"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968183#1226623001_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968183",
+                                                "label": "No",
+                                                "oddsAmerican": "-700",
+                                                "oddsDecimal": 1.14285715,
+                                                "oddsDecimalDisplay": "1.14",
+                                                "oddsFractional": "1/7",
+                                                "participant": "Miles Bridges"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108016880",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Montrezl Harrell Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108016880#1227136226_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108016880",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+425",
+                                                "oddsDecimal": 5.25000000,
+                                                "oddsDecimalDisplay": "5.25",
+                                                "oddsFractional": "17/4",
+                                                "participant": "Montrezl Harrell"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA108016880#1227136225_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108016880",
+                                                "label": "No",
+                                                "oddsAmerican": "-750",
+                                                "oddsDecimal": 1.13333334,
+                                                "oddsDecimalDisplay": "1.13",
+                                                "oddsFractional": "2/15",
+                                                "participant": "Montrezl Harrell"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968210",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "PJ Washington Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968210#1226623082_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968210",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+475",
+                                                "oddsDecimal": 5.75000000,
+                                                "oddsDecimalDisplay": "5.75",
+                                                "oddsFractional": "19/4",
+                                                "participant": "PJ Washington"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968210#1226623081_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968210",
+                                                "label": "No",
+                                                "oddsAmerican": "-900",
+                                                "oddsDecimal": 1.11111112,
+                                                "oddsDecimalDisplay": "1.11",
+                                                "oddsFractional": "1/9",
+                                                "participant": "PJ Washington"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968174",
+                                        "providerId": 2,
+                                        "providerEventId": "26382228",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Terry Rozier Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968174#1226623000_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968174",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+950",
+                                                "oddsDecimal": 10.50000000,
+                                                "oddsDecimalDisplay": "10.50",
+                                                "oddsFractional": "19/2",
+                                                "participant": "Terry Rozier"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968174#1226622999_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968174",
+                                                "label": "No",
+                                                "oddsAmerican": "-5000",
+                                                "oddsDecimal": 1.02000000,
+                                                "oddsDecimalDisplay": "1.02",
+                                                "oddsFractional": "1/50",
+                                                "participant": "Terry Rozier"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "107968606",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Cameron Payne Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968606#1226625301_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968606",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+165",
+                                                "oddsDecimal": 2.65000000,
+                                                "oddsDecimalDisplay": "2.65",
+                                                "oddsFractional": "33/20",
+                                                "participant": "Cameron Payne"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968606#1226625300_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968606",
+                                                "label": "No",
+                                                "oddsAmerican": "-235",
+                                                "oddsDecimal": 1.42553192,
+                                                "oddsDecimalDisplay": "1.42",
+                                                "oddsFractional": "20/47",
+                                                "participant": "Cameron Payne"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968549",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Cole Anthony Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968549#1226625165_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968549",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+600",
+                                                "oddsDecimal": 7.00000000,
+                                                "oddsDecimalDisplay": "7.00",
+                                                "oddsFractional": "6/1",
+                                                "participant": "Cole Anthony"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968549#1226625164_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968549",
+                                                "label": "No",
+                                                "oddsAmerican": "-1400",
+                                                "oddsDecimal": 1.07142858,
+                                                "oddsDecimalDisplay": "1.07",
+                                                "oddsFractional": "1/14",
+                                                "participant": "Cole Anthony"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968624",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Deandre Ayton Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968624#1226625285_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968624",
+                                                "label": "Yes",
+                                                "oddsAmerican": "-140",
+                                                "oddsDecimal": 1.71428572,
+                                                "oddsDecimalDisplay": "1.71",
+                                                "oddsFractional": "5/7",
+                                                "participant": "Deandre Ayton"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968624#1226625283_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968624",
+                                                "label": "No",
+                                                "oddsAmerican": "+105",
+                                                "oddsDecimal": 2.05000000,
+                                                "oddsDecimalDisplay": "2.05",
+                                                "oddsFractional": "21/20",
+                                                "participant": "Deandre Ayton"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968626",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jae Crowder Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968626#1226625309_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968626",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+800",
+                                                "oddsDecimal": 9.00000000,
+                                                "oddsDecimalDisplay": "9.00",
+                                                "oddsFractional": "8/1",
+                                                "participant": "Jae Crowder"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968626#1226625308_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968626",
+                                                "label": "No",
+                                                "oddsAmerican": "-2500",
+                                                "oddsDecimal": 1.04000000,
+                                                "oddsDecimalDisplay": "1.04",
+                                                "oddsFractional": "1/25",
+                                                "participant": "Jae Crowder"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968580",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Mikal Bridges Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968580#1226625209_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968580",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1200",
+                                                "oddsDecimal": 13.00000000,
+                                                "oddsDecimalDisplay": "13.00",
+                                                "oddsFractional": "12/1",
+                                                "participant": "Mikal Bridges"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968544",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Mo Bamba Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968544#1226625129_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968544",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+340",
+                                                "oddsDecimal": 4.40000000,
+                                                "oddsDecimalDisplay": "4.40",
+                                                "oddsFractional": "17/5",
+                                                "participant": "Mo Bamba"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968544#1226625128_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968544",
+                                                "label": "No",
+                                                "oddsAmerican": "-550",
+                                                "oddsDecimal": 1.18181819,
+                                                "oddsDecimalDisplay": "1.18",
+                                                "oddsFractional": "2/11",
+                                                "participant": "Mo Bamba"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108026190",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Torrey Craig Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108026190#1227227174_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108026190",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1400",
+                                                "oddsDecimal": 15.00000000,
+                                                "oddsDecimalDisplay": "15.00",
+                                                "oddsFractional": "14/1",
+                                                "participant": "Torrey Craig"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968530",
+                                        "providerId": 2,
+                                        "providerEventId": "26382231",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Wendell Carter Jr. Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968530#1226625103_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968530",
+                                                "label": "Yes",
+                                                "oddsAmerican": "-110",
+                                                "oddsDecimal": 1.90909091,
+                                                "oddsDecimalDisplay": "1.90",
+                                                "oddsFractional": "10/11",
+                                                "participant": "Wendell Carter Jr."
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968530#1226625102_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968530",
+                                                "label": "No",
+                                                "oddsAmerican": "-120",
+                                                "oddsDecimal": 1.83333334,
+                                                "oddsDecimalDisplay": "1.83",
+                                                "oddsFractional": "5/6",
+                                                "participant": "Wendell Carter Jr."
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "108014132",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Buddy Hield Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108014132#1227106095_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014132",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1400",
+                                                "oddsDecimal": 15.00000000,
+                                                "oddsDecimalDisplay": "15.00",
+                                                "oddsFractional": "14/1",
+                                                "participant": "Buddy Hield"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968317",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Darius Garland Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968317#1226623672_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968317",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+130",
+                                                "oddsDecimal": 2.30000000,
+                                                "oddsDecimalDisplay": "2.30",
+                                                "oddsFractional": "13/10",
+                                                "participant": "Darius Garland"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968317#1226623671_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968317",
+                                                "label": "No",
+                                                "oddsAmerican": "-175",
+                                                "oddsDecimal": 1.57142858,
+                                                "oddsDecimalDisplay": "1.57",
+                                                "oddsFractional": "4/7",
+                                                "participant": "Darius Garland"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968321",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Evan Mobley Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968321#1226623688_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968321",
+                                                "label": "Yes",
+                                                "oddsAmerican": "-150",
+                                                "oddsDecimal": 1.66666667,
+                                                "oddsDecimalDisplay": "1.66",
+                                                "oddsFractional": "4/6",
+                                                "participant": "Evan Mobley"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968321#1226623686_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968321",
+                                                "label": "No",
+                                                "oddsAmerican": "+110",
+                                                "oddsDecimal": 2.10000000,
+                                                "oddsDecimalDisplay": "2.10",
+                                                "oddsFractional": "11/10",
+                                                "participant": "Evan Mobley"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108014633",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Isaiah Jackson Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108014633#1227112140_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014633",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+900",
+                                                "oddsDecimal": 10.00000000,
+                                                "oddsDecimalDisplay": "10.00",
+                                                "oddsFractional": "9/1",
+                                                "participant": "Isaiah Jackson"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA108014633#1227112139_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014633",
+                                                "label": "No",
+                                                "oddsAmerican": "-4000",
+                                                "oddsDecimal": 1.02500000,
+                                                "oddsDecimalDisplay": "1.02",
+                                                "oddsFractional": "1/40",
+                                                "participant": "Isaiah Jackson"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968343",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Lauri Markkanen Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968343#1226623768_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968343",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+350",
+                                                "oddsDecimal": 4.50000000,
+                                                "oddsDecimalDisplay": "4.50",
+                                                "oddsFractional": "7/2",
+                                                "participant": "Lauri Markkanen"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968343#1226623767_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968343",
+                                                "label": "No",
+                                                "oddsAmerican": "-575",
+                                                "oddsDecimal": 1.17391305,
+                                                "oddsDecimalDisplay": "1.17",
+                                                "oddsFractional": "4/23",
+                                                "participant": "Lauri Markkanen"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108014149",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Malcolm Brogdon Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108014149#1227106128_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014149",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+750",
+                                                "oddsDecimal": 8.50000000,
+                                                "oddsDecimalDisplay": "8.50",
+                                                "oddsFractional": "15/2",
+                                                "participant": "Malcolm Brogdon"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA108014149#1227106127_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014149",
+                                                "label": "No",
+                                                "oddsAmerican": "-2000",
+                                                "oddsDecimal": 1.05000000,
+                                                "oddsDecimalDisplay": "1.05",
+                                                "oddsFractional": "1/20",
+                                                "participant": "Malcolm Brogdon"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107968470",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Oshae Brissett Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107968470#1226624508_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968470",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+450",
+                                                "oddsDecimal": 5.50000000,
+                                                "oddsDecimalDisplay": "5.50",
+                                                "oddsFractional": "9/2",
+                                                "participant": "Oshae Brissett"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107968470#1226624507_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107968470",
+                                                "label": "No",
+                                                "oddsAmerican": "-800",
+                                                "oddsDecimal": 1.12500000,
+                                                "oddsDecimalDisplay": "1.12",
+                                                "oddsFractional": "1/8",
+                                                "participant": "Oshae Brissett"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108014178",
+                                        "providerId": 2,
+                                        "providerEventId": "26382229",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Tyrese Haliburton Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108014178#1227106336_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014178",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+195",
+                                                "oddsDecimal": 2.95000000,
+                                                "oddsDecimalDisplay": "2.95",
+                                                "oddsFractional": "39/20",
+                                                "participant": "Tyrese Haliburton"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA108014178#1227106335_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108014178",
+                                                "label": "No",
+                                                "oddsAmerican": "-275",
+                                                "oddsDecimal": 1.36363637,
+                                                "oddsDecimalDisplay": "1.36",
+                                                "oddsFractional": "4/11",
+                                                "participant": "Tyrese Haliburton"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "108016983",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Brandon Clarke Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108016983#1227136899_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108016983",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+600",
+                                                "oddsDecimal": 7.00000000,
+                                                "oddsDecimalDisplay": "7.00",
+                                                "oddsFractional": "6/1",
+                                                "participant": "Brandon Clarke"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA108016983#1227136898_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108016983",
+                                                "label": "No",
+                                                "oddsAmerican": "-1400",
+                                                "oddsDecimal": 1.07142858,
+                                                "oddsDecimalDisplay": "1.07",
+                                                "oddsFractional": "1/14",
+                                                "participant": "Brandon Clarke"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969512",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "CJ McCollum Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969512#1226633681_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969512",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+650",
+                                                "oddsDecimal": 7.50000000,
+                                                "oddsDecimalDisplay": "7.50",
+                                                "oddsFractional": "13/2",
+                                                "participant": "CJ McCollum"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969512#1226633680_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969512",
+                                                "label": "No",
+                                                "oddsAmerican": "-1600",
+                                                "oddsDecimal": 1.06250000,
+                                                "oddsDecimalDisplay": "1.06",
+                                                "oddsFractional": "1/16",
+                                                "participant": "CJ McCollum"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969381",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Ja Morant Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969381#1226633414_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969381",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+330",
+                                                "oddsDecimal": 4.30000000,
+                                                "oddsDecimalDisplay": "4.30",
+                                                "oddsFractional": "33/10",
+                                                "participant": "Ja Morant"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969381#1226633413_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969381",
+                                                "label": "No",
+                                                "oddsAmerican": "-525",
+                                                "oddsDecimal": 1.19047620,
+                                                "oddsDecimalDisplay": "1.19",
+                                                "oddsFractional": "4/21",
+                                                "participant": "Ja Morant"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969389",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jaren Jackson Jr. Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969389#1226633372_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969389",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+800",
+                                                "oddsDecimal": 9.00000000,
+                                                "oddsDecimalDisplay": "9.00",
+                                                "oddsFractional": "8/1",
+                                                "participant": "Jaren Jackson Jr."
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969389#1226633369_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969389",
+                                                "label": "No",
+                                                "oddsAmerican": "-2500",
+                                                "oddsDecimal": 1.04000000,
+                                                "oddsDecimalDisplay": "1.04",
+                                                "oddsFractional": "1/25",
+                                                "participant": "Jaren Jackson Jr."
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969448",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jaxson Hayes Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969448#1226633489_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969448",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1400",
+                                                "oddsDecimal": 15.00000000,
+                                                "oddsDecimalDisplay": "15.00",
+                                                "oddsFractional": "14/1",
+                                                "participant": "Jaxson Hayes"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969455",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jonas Valanciunas Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969455#1226633649_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969455",
+                                                "label": "Yes",
+                                                "oddsAmerican": "-135",
+                                                "oddsDecimal": 1.74074075,
+                                                "oddsDecimalDisplay": "1.74",
+                                                "oddsFractional": "20/27",
+                                                "participant": "Jonas Valanciunas"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969455#1226633648_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969455",
+                                                "label": "No",
+                                                "oddsAmerican": "+100",
+                                                "oddsDecimal": 2.00000000,
+                                                "oddsDecimalDisplay": "2.00",
+                                                "oddsFractional": "1/1",
+                                                "participant": "Jonas Valanciunas"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "108017015",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Kyle Anderson Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108017015#1227137230_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108017015",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1300",
+                                                "oddsDecimal": 14.00000000,
+                                                "oddsDecimalDisplay": "14.00",
+                                                "oddsFractional": "13/1",
+                                                "participant": "Kyle Anderson"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 1,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969378",
+                                        "providerId": 2,
+                                        "providerEventId": "26382232",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Steven Adams Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969378#1226633378_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969378",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+230",
+                                                "oddsDecimal": 3.30000000,
+                                                "oddsDecimalDisplay": "3.30",
+                                                "oddsFractional": "23/10",
+                                                "participant": "Steven Adams"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969378#1226633377_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969378",
+                                                "label": "No",
+                                                "oddsAmerican": "-340",
+                                                "oddsDecimal": 1.29411765,
+                                                "oddsDecimalDisplay": "1.29",
+                                                "oddsFractional": "5/17",
+                                                "participant": "Steven Adams"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "107969887",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Bobby Portis Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969887#1226636731_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969887",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+145",
+                                                "oddsDecimal": 2.45000000,
+                                                "oddsDecimalDisplay": "2.45",
+                                                "oddsFractional": "29/20",
+                                                "participant": "Bobby Portis"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969887#1226636730_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969887",
+                                                "label": "No",
+                                                "oddsAmerican": "-195",
+                                                "oddsDecimal": 1.51282052,
+                                                "oddsDecimalDisplay": "1.51",
+                                                "oddsFractional": "20/39",
+                                                "participant": "Bobby Portis"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969983",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Darius Bazley Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969983#1226636916_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969983",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+400",
+                                                "oddsDecimal": 5.00000000,
+                                                "oddsDecimalDisplay": "5.00",
+                                                "oddsFractional": "4/1",
+                                                "participant": "Darius Bazley"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969983#1226636915_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969983",
+                                                "label": "No",
+                                                "oddsAmerican": "-700",
+                                                "oddsDecimal": 1.14285715,
+                                                "oddsDecimalDisplay": "1.14",
+                                                "oddsFractional": "1/7",
+                                                "participant": "Darius Bazley"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969538",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Giannis Antetokounmpo Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969538#1226633773_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969538",
+                                                "label": "Yes",
+                                                "oddsAmerican": "-575",
+                                                "oddsDecimal": 1.17391305,
+                                                "oddsDecimalDisplay": "1.17",
+                                                "oddsFractional": "4/23",
+                                                "participant": "Giannis Antetokounmpo"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969538#1226633770_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969538",
+                                                "label": "No",
+                                                "oddsAmerican": "+350",
+                                                "oddsDecimal": 4.50000000,
+                                                "oddsDecimalDisplay": "4.50",
+                                                "oddsFractional": "7/2",
+                                                "participant": "Giannis Antetokounmpo"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969890",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Jrue Holiday Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969890#1226636677_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969890",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+320",
+                                                "oddsDecimal": 4.20000000,
+                                                "oddsDecimalDisplay": "4.20",
+                                                "oddsFractional": "16/5",
+                                                "participant": "Jrue Holiday"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969890#1226636676_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969890",
+                                                "label": "No",
+                                                "oddsAmerican": "-500",
+                                                "oddsDecimal": 1.20000000,
+                                                "oddsDecimalDisplay": "1.20",
+                                                "oddsFractional": "1/5",
+                                                "participant": "Jrue Holiday"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969864",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Khris Middleton Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969864#1226636608_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969864",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+700",
+                                                "oddsDecimal": 8.00000000,
+                                                "oddsDecimalDisplay": "8.00",
+                                                "oddsFractional": "7/1",
+                                                "participant": "Khris Middleton"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969864#1226636607_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969864",
+                                                "label": "No",
+                                                "oddsAmerican": "-1800",
+                                                "oddsDecimal": 1.05555556,
+                                                "oddsDecimalDisplay": "1.05",
+                                                "oddsFractional": "1/18",
+                                                "participant": "Khris Middleton"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107969956",
+                                        "providerId": 2,
+                                        "providerEventId": "26382233",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Shai Gilgeous-Alexander Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107969956#1226636848_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969956",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+330",
+                                                "oddsDecimal": 4.30000000,
+                                                "oddsDecimalDisplay": "4.30",
+                                                "oddsFractional": "33/10",
+                                                "participant": "Shai Gilgeous-Alexander"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107969956#1226636846_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107969956",
+                                                "label": "No",
+                                                "oddsAmerican": "-525",
+                                                "oddsDecimal": 1.19047620,
+                                                "oddsDecimalDisplay": "1.19",
+                                                "oddsFractional": "4/21",
+                                                "participant": "Shai Gilgeous-Alexander"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ],
+                                [
+                                    {
+                                        "providerOfferId": "108026169",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Isaiah Hartenstein Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA108026169#1227227121_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "108026169",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1200",
+                                                "oddsDecimal": 13.00000000,
+                                                "oddsDecimalDisplay": "13.00",
+                                                "oddsFractional": "12/1",
+                                                "participant": "Isaiah Hartenstein"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107970051",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Ivica Zubac Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107970051#1226637246_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970051",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+185",
+                                                "oddsDecimal": 2.85000000,
+                                                "oddsDecimalDisplay": "2.85",
+                                                "oddsFractional": "37/20",
+                                                "participant": "Ivica Zubac"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107970051#1226637245_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970051",
+                                                "label": "No",
+                                                "oddsAmerican": "-260",
+                                                "oddsDecimal": 1.38461539,
+                                                "oddsDecimalDisplay": "1.38",
+                                                "oddsFractional": "5/13",
+                                                "participant": "Ivica Zubac"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107983915",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Kevon Looney Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107983915#1226788826_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107983915",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+475",
+                                                "oddsDecimal": 5.75000000,
+                                                "oddsDecimalDisplay": "5.75",
+                                                "oddsFractional": "19/4",
+                                                "participant": "Kevon Looney"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107983915#1226788825_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107983915",
+                                                "label": "No",
+                                                "oddsAmerican": "-900",
+                                                "oddsDecimal": 1.11111112,
+                                                "oddsDecimalDisplay": "1.11",
+                                                "oddsFractional": "1/9",
+                                                "participant": "Kevon Looney"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107970092",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Marcus Morris Sr. Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107970092#1226637310_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970092",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+1200",
+                                                "oddsDecimal": 13.00000000,
+                                                "oddsDecimalDisplay": "13.00",
+                                                "oddsFractional": "12/1",
+                                                "participant": "Marcus Morris Sr."
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107970061",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Reggie Jackson Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107970061#1226637290_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970061",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+700",
+                                                "oddsDecimal": 8.00000000,
+                                                "oddsDecimalDisplay": "8.00",
+                                                "oddsFractional": "7/1",
+                                                "participant": "Reggie Jackson"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107970061#1226637289_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970061",
+                                                "label": "No",
+                                                "oddsAmerican": "-1800",
+                                                "oddsDecimal": 1.05555556,
+                                                "oddsDecimalDisplay": "1.05",
+                                                "oddsFractional": "1/18",
+                                                "participant": "Reggie Jackson"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107983955",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Stephen Curry Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107983955#1226788856_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107983955",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+320",
+                                                "oddsDecimal": 4.20000000,
+                                                "oddsDecimalDisplay": "4.20",
+                                                "oddsFractional": "16/5",
+                                                "participant": "Stephen Curry"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107983955#1226788855_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107983955",
+                                                "label": "No",
+                                                "oddsAmerican": "-500",
+                                                "oddsDecimal": 1.20000000,
+                                                "oddsDecimalDisplay": "1.20",
+                                                "oddsFractional": "1/5",
+                                                "participant": "Stephen Curry"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    },
+                                    {
+                                        "providerOfferId": "107970081",
+                                        "providerId": 2,
+                                        "providerEventId": "26382234",
+                                        "providerEventGroupId": "42648",
+                                        "label": "Terance Mann Double-Double",
+                                        "isSuspended": false,
+                                        "isOpen": true,
+                                        "offerSubcategoryId": 7136,
+                                        "isSubcategoryFeatured": false,
+                                        "betOfferTypeId": 0,
+                                        "displayGroupId": 5319,
+                                        "eventGroupId": 88670846,
+                                        "providerCriterionId": "8652",
+                                        "outcomes": [
+                                            {
+                                                "providerOutcomeId": "0QA107970081#1226637294_14L42648Q1295977762Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970081",
+                                                "label": "Yes",
+                                                "oddsAmerican": "+500",
+                                                "oddsDecimal": 6.00000000,
+                                                "oddsDecimalDisplay": "6.00",
+                                                "oddsFractional": "5/1",
+                                                "participant": "Terance Mann"
+                                            },
+                                            {
+                                                "providerOutcomeId": "0QA107970081#1226637293_14L42648Q1-1961962882Q20",
+                                                "providerId": 2,
+                                                "providerOfferId": "107970081",
+                                                "label": "No",
+                                                "oddsAmerican": "-1100",
+                                                "oddsDecimal": 1.09090910,
+                                                "oddsDecimalDisplay": "1.09",
+                                                "oddsFractional": "1/11",
+                                                "participant": "Terance Mann"
+                                            }
+                                        ],
+                                        "offerUpdateState": "0",
+                                        "offerSequence": 0,
+                                        "source": "3",
+                                        "main": false
+                                    }
+                                ]
+                            ]
+                        }
+                    },
+                    {
+                        "subcategoryId": 7137,
+                        "name": "Triple-Double"
+                    },
+                    {
+                        "subcategoryId": 10101,
+                        "name": "Scoring Leader"
+                    },
+                    {
+                        "subcategoryId": 5012,
+                        "name": "First FG"
+                    },
+                    {
+                        "subcategoryId": 7346,
+                        "name": "Blocks"
+                    },
+                    {
+                        "subcategoryId": 9971,
+                        "name": "Steals"
+                    },
+                    {
+                        "subcategoryId": 7965,
+                        "name": "Turnovers"
+                    },
+                    {
+                        "subcategoryId": 5001,
+                        "name": "Pts, Reb & Ast"
+                    },
+                    {
+                        "subcategoryId": 9976,
+                        "name": "Pts + Reb"
+                    },
+                    {
+                        "subcategoryId": 9973,
+                        "name": "Pts + Ast"
+                    },
+                    {
+                        "subcategoryId": 9974,
+                        "name": "Ast + Reb"
+                    },
+                    {
+                        "subcategoryId": 9975,
+                        "name": "Steals + Blocks"
+                    }
+                ]
+            },
+            {
+                "offerCategoryId": 584,
+                "name": "Daily Specials"
+            },
+            {
+                "offerCategoryId": 522,
+                "name": "Quarters"
+            },
+            {
+                "offerCategoryId": 520,
+                "name": "Halves"
+            },
+            {
+                "offerCategoryId": 521,
+                "name": "Game Props"
+            },
+            {
+                "offerCategoryId": 519,
+                "name": "Team Futures"
+            },
+            {
+                "offerCategoryId": 518,
+                "name": "Awards"
+            }
+        ],
+        "events": [
+            {
+                "eventId": 180251319,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382228",
+                "providerId": 2,
+                "name": "BKN Nets @ CHA Hornets",
+                "startDate": "2022-03-09T00:10:00.0000000Z",
+                "teamName1": "BKN Nets",
+                "teamName2": "CHA Hornets",
+                "teamShortName1": "BKN",
+                "teamShortName2": "CHA",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28810086",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:25:19.5847119Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28810086",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:25:19.5847119Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28810086",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:25:19.5847119Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180251370,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382231",
+                "providerId": 2,
+                "name": "PHO Suns @ ORL Magic",
+                "startDate": "2022-03-09T00:10:00.0000000Z",
+                "teamName1": "PHO Suns",
+                "teamName2": "ORL Magic",
+                "teamShortName1": "PHO",
+                "teamShortName2": "ORL",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809024",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:18:44.9997279Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809024",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:18:44.9997279Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28809024",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:18:44.9997279Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180251362,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382229",
+                "providerId": 2,
+                "name": "CLE Cavaliers @ IND Pacers",
+                "startDate": "2022-03-09T00:10:00.0000000Z",
+                "teamName1": "CLE Cavaliers",
+                "teamName2": "IND Pacers",
+                "teamShortName1": "CLE",
+                "teamShortName2": "IND",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809642",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:18:24.3981604Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809642",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:18:24.3981604Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28809642",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:18:24.3981604Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180251473,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382232",
+                "providerId": 2,
+                "name": "NO Pelicans @ MEM Grizzlies",
+                "startDate": "2022-03-09T00:40:00.0000000Z",
+                "teamName1": "NO Pelicans",
+                "teamName2": "MEM Grizzlies",
+                "teamShortName1": "NO",
+                "teamShortName2": "MEM",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809796",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:04:28.7869270Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809796",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:04:28.7869270Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28809796",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:04:28.7869270Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180251476,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382233",
+                "providerId": 2,
+                "name": "MIL Bucks @ OKC Thunder",
+                "startDate": "2022-03-09T01:10:00.0000000Z",
+                "teamName1": "MIL Bucks",
+                "teamName2": "OKC Thunder",
+                "teamShortName1": "MIL",
+                "teamShortName2": "OKC",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28808600",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:07:20.5264760Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28808600",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:07:20.5264760Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28808600",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:07:20.5264760Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            },
+            {
+                "eventId": 180251645,
+                "displayGroupId": 5319,
+                "eventGroupId": 88670846,
+                "eventGroupName": "NBA",
+                "providerEventId": "26382234",
+                "providerId": 2,
+                "name": "LA Clippers @ GS Warriors",
+                "startDate": "2022-03-09T03:10:00.0000000Z",
+                "teamName1": "LA Clippers",
+                "teamName2": "GS Warriors",
+                "teamShortName1": "LAC",
+                "teamShortName2": "GS",
+                "eventStatus": {
+                    "state": "NOT_STARTED",
+                    "isClockDisabled": false,
+                    "minute": 0,
+                    "second": 0,
+                    "isClockRunning": false
+                },
+                "eventScorecard": {
+                    "scorecardComponentId": 1
+                },
+                "mediaList": [
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809586",
+                        "mediaTypeName": "MatchTracker",
+                        "updatedAt": "2022-03-08T21:14:11.8594690Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarV3",
+                        "mediaId": "28809586",
+                        "mediaTypeName": "Scoreboard",
+                        "updatedAt": "2022-03-08T21:14:11.8594690Z"
+                    },
+                    {
+                        "mediaProviderName": "BetRadarStats",
+                        "mediaId": "28809586",
+                        "mediaTypeName": "Stats",
+                        "updatedAt": "2022-03-08T21:14:11.8594690Z"
+                    }
+                ],
+                "liveBettingOffered": false,
+                "liveBettingEnabled": false,
+                "isSameGameParlayEligible": true,
+                "flashBetOfferCount": 0
+            }
+        ]
+    }
+}

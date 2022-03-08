@@ -1,5 +1,8 @@
 import urllib.request, json 
 
+# TODO: figure out a plan for double doubles and triple doubles, all being assigned "None" right now since they're yes/no
+# idea for above: gather points, rebounds, assists, blocks, steals for each player and see which of those are >10
+
 url_dict = {
     "points": "https://sportsbook-us-nh.draftkings.com//sites/US-NH-SB/api/v4/eventgroups/88670846/categories/583/subcategories/4991?format=json",
     "rebounds": "https://sportsbook-us-nh.draftkings.com//sites/US-NH-SB/api/v4/eventgroups/88670846/categories/583/subcategories/4992?format=json",
@@ -30,7 +33,8 @@ def get_props_base(url):
                     for gameOffers in offers:
                         for offer in gameOffers:
                             outcome = offer.get("outcomes")[0]
-                            props_dict[outcome.get("participant")] = outcome.get("line")
+                            # this covers double doubles and triple doubles for now, as those come in as "None"
+                            props_dict[outcome.get("participant")] = outcome.get("line") or 0
 
     return props_dict
 
@@ -60,6 +64,3 @@ def get_steals():
 
 def get_turnovers():
     return get_props_base(url_dict.get("turnovers"))
-
-print(get_turnovers())
-#print(categories)
