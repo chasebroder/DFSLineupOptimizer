@@ -12,6 +12,7 @@ optimizer.load_players_from_csv("dk_salaries.csv")
 # add randomness
 # optimizer.set_fantasy_points_strategy(RandomFantasyPointsStrategy(max_deviation=0.2))  # set random strategy with custom max_deviation
 
+#optimizer.set_fantasy_points_strategy(ScrapedProjectedPointsStrategy())  # set scraped projections
 optimizer.set_fantasy_points_strategy(VegasStrategy())  # set scraped projections
 
 
