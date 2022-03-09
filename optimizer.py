@@ -17,8 +17,8 @@ optimizer.set_fantasy_points_strategy(VegasStrategy())  # set scraped projection
 
 
 # optimize lineups and print results
-lineups = set(optimizer.optimize(n=5))
-lineups.update(optimizer.optimize(5, exclude_lineups=lineups)) # remove duplicates
+lineups = set(optimizer.optimize(n=6))
+lineups.update(optimizer.optimize(6, exclude_lineups=lineups)) # remove duplicates
 for lineup in lineups:
     print(lineup)
 

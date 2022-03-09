@@ -12,6 +12,8 @@ def get_projections():
     blocks = get_blocks()
     steals = get_steals()
     turnovers = get_turnovers()
+    double_doubles = get_double_doubles()
+    triple_doubles = get_triple_doubles()
 
     # dictionary to be returned
     projections_dict = {}
@@ -55,5 +57,17 @@ def get_projections():
             projections_dict[name] += turnovers[name] * scoring_multiplier_dict.get("turnovers")
         else:
             projections_dict[name] = turnovers[name] * scoring_multiplier_dict.get("turnovers")
+
+    for name in double_doubles:
+        if name in projections_dict:
+            projections_dict[name] += double_doubles[name] * scoring_multiplier_dict.get("double-doubles")
+        else:
+            projections_dict[name] = double_doubles[name] * scoring_multiplier_dict.get("double-doubles")
+
+    for name in triple_doubles:
+        if name in projections_dict:
+            projections_dict[name] += triple_doubles[name] * scoring_multiplier_dict.get("triple-doubles")
+        else:
+            projections_dict[name] = triple_doubles[name] * scoring_multiplier_dict.get("triple-doubles")
 
     return projections_dict
