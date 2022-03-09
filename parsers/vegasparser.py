@@ -39,7 +39,8 @@ def get_props_base(url):
                             # this covers double doubles and triple doubles for now, as those come in as "None"
                             if subcategory.get("name") == "Double-Double" or subcategory.get("name") == "Triple-Double":
                                 props_dict[outcome.get("participant")] = 1 / outcome.get("oddsDecimal")
-                            props_dict[outcome.get("participant")] = outcome.get("line") or 0
+                            else:
+                                props_dict[outcome.get("participant")] = outcome.get("line") or 0
 
     return props_dict
 
