@@ -19,3 +19,4 @@ changes as necessary, such as website and slate.
 * Adapt for other sports: ex. NHL, NFL
 * Look into IndexOutOfRange error that pops up occasionally for outcome = offer.get("outcomes")[0]
 * Make a "weighted average" strategy that incorporates the projected points from 2+ existing strategies as a weighted average (or see if this functionality is built into the pydfs library)
+* Vegas lines juice
