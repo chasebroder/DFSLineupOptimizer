@@ -1,15 +1,15 @@
 # DFSLineupOptimizer
 
-This project uses the pydfs library to generate lineups for Daily Fantasy Sports (DFS) contests. Currently, it uses fantasy points per game against the player's assigned salary to determine value for each player.
+This project uses the pydfs library to generate lineups for Daily Fantasy Sports (DFS) contests. Currently, it uses fantasy points per game (FPPG) against the player's assigned salary to determine value for each player. FPPG is calculated using DraftKings Sportsbooks odds supplied by their public API. 
 
 ## How to Run
-Make sure you have at least Python 3.6 installed on your machine. Run "python optimizer.py" from your Terminal, using the 
-supplied CSV. If you'd like to use your own CSV, add it to this folder or reference the file path in code. Make other in-code
-changes as necessary, such as website and slate. 
+
+Make sure you have at least Python 3.6 installed on your machine. Run "python optimizer.py" from your Terminal. Make sure you include a salary CSV (can download from DraftKings/FanDuel/Yahoo website) and put it in the top-level folder of the project. The project will print the generated lineups in the Terminal and also generate a CSV that is uploadable directly to the chosen site.  Make other in-code changes as necessary in the optimizer.py file, such as website and slate. This currently only supports the NBA Classic slate but will become more configurable in the future. 
+
+See `requirements.txt` for a list of Python dependencies to run this project; these can be installed in your Terminal using the "pip" command.
 
 ## TODO
-
-* Add to README what Python packages are required to install to run this project 
+ 
 * Explore options that library provides to calculate more accurate values for players (ex. using player projections, matchups, trends, etc)
 * Set up a command-line run configuration to set customizable options (ex. player salary file, site, etc.)
 * Figure out how to filter out injured players (player.is_injured doesn't seem to supply valid data)
@@ -21,3 +21,4 @@ changes as necessary, such as website and slate.
 * Make a "weighted average" strategy that incorporates the projected points from 2+ existing strategies as a weighted average (or see if this functionality is built into the pydfs library)
 * Vegas lines juice
 * Import ownership projections (Awesomeo?)
+* Look into the bugs where incorrect # of lineups created, duplicate lineups
