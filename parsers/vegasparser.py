@@ -32,12 +32,13 @@ def get_props_base(url):
                             # this outcomes get is index out of bounds sometimes, investigate this
                             # if possible
                             outcomesList = offer.get("outcomes")
-                            if outcomesList.size == 0:
+                            if len(outcomesList) == 0:
                                 # print out info to avoid index out of bounds
                                 print("No outcomes found")
                                 print("Here is the offers object: ")
                                 print(offers)
-                                
+                                return
+
                             outcome = outcomesList[0]
                             # this covers double doubles and triple doubles for now, as those come in as "None"
                             if subcategory.get("name") == "Double-Double" or subcategory.get("name") == "Triple-Double":

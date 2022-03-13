@@ -1,4 +1,4 @@
-from pydfs_lineup_optimizer import get_optimizer, Site, Sport
+from pydfs_lineup_optimizer import get_optimizer, Site, Sport, AfterEachExposureStrategy, RandomFantasyPointsStrategy
 
 from strategies.ScrapedProjectedPointsStrategy import ScrapedProjectedPointsStrategy
 from strategies.VegasStrategy import VegasStrategy
@@ -17,8 +17,7 @@ optimizer.set_fantasy_points_strategy(VegasStrategy())  # set scraped projection
 
 
 # optimize lineups and print results
-lineups = set(optimizer.optimize(n=4))
-lineups.update(optimizer.optimize(n=4, exclude_lineups=lineups)) # remove duplicates
+lineups = set(optimizer.optimize(n=6, max_exposure=0.5, exposure_strategy = AfterEachExposureStrategy))
 for lineup in lineups:
     print(lineup)
 
