@@ -19,4 +19,3 @@ See `requirements.txt` for a list of Python dependencies to run this project; th
 * Make a "weighted average" strategy that incorporates the projected points from 2+ existing strategies as a weighted average (or see if this functionality is built into the pydfs library)
 * Vegas lines juice
 * Import ownership projections (Awesomeo?)
-* Look into the bugs where incorrect # of lineups created, duplicate lineups
