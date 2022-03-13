@@ -13,7 +13,7 @@ optimizer = get_optimizer(Site.DRAFTKINGS, Sport.BASKETBALL)
 optimizer.load_players_from_csv(salary_csv)
 lineups = optimizer.load_lineups_from_csv(lineup_csv)
 optimizer.set_fantasy_points_strategy(VegasStrategy()) 
-for lineup in optimizer.optimize_lineups(lineups):
+for lineup in optimizer.optimize_lineups(lineups, max_exposure=0.5):
     print(lineup)
 
 # export lineups to csv
