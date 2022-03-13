@@ -13,6 +13,8 @@ optimizer = get_optimizer(Site.DRAFTKINGS, Sport.BASKETBALL)
 optimizer.load_players_from_csv(salary_csv)
 lineups = optimizer.load_lineups_from_csv(lineup_csv)
 optimizer.set_fantasy_points_strategy(VegasStrategy()) 
+# can we definitely include strategy? is optimizer getting confused and not able to create possibilities,
+# particularly with smaller pool of unlocked players? if I see this again, maybe increase max exposure
 for lineup in optimizer.optimize_lineups(lineups, max_exposure=0.5, exposure_strategy = AfterEachExposureStrategy):
     print(lineup)
 
