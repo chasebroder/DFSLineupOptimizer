@@ -31,7 +31,14 @@ def get_props_base(url):
                         for offer in gameOffers:
                             # this outcomes get is index out of bounds sometimes, investigate this
                             # if possible
-                            outcome = offer.get("outcomes")[0]
+                            outcomesList = offer.get("outcomes")
+                            if outcomesList.size == 0:
+                                # print out info to avoid index out of bounds
+                                print("No outcomes found")
+                                print("Here is the offers object: ")
+                                print(offers)
+                                
+                            outcome = outcomesList[0]
                             # this covers double doubles and triple doubles for now, as those come in as "None"
                             if subcategory.get("name") == "Double-Double" or subcategory.get("name") == "Triple-Double":
                                 props_dict[outcome.get("participant")] = 1 / outcome.get("oddsDecimal")
