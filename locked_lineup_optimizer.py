@@ -1,5 +1,8 @@
-from pydfs_lineup_optimizer import get_optimizer, Site, Sport
+from pydfs_lineup_optimizer import AfterEachExposureStrategy, get_optimizer, Site, Sport
 from strategies.VegasStrategy import VegasStrategy
+
+# This file is meant to optimize late swaps for lineups that have already been submitted
+# The library implementation is buggy, so this should not be used currently
 
 salary_csv = "dk_salaries.csv"
 lineup_csv = "DKEntries.csv"
